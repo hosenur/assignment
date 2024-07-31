@@ -25,6 +25,14 @@ const banners = [
     image: 'https://images.unsplash.com/photo-1487744480471-9ca1bca6fb7d?ixid=M3w0NTY3MTh8MHwxfHNlYXJjaHw4fHxzaG9wcGluZ3xlbnwwfHx8fDE3MjIzNDkxMDF8MA&ixlib=rb-4.0.3&crop=edges&fit=crop&h=1080&w=1080', cta: 'Get Started',
     background: 'https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png',
     variant: '03'
+  },
+  {
+    title: 'Banner 04',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.',
+    image: 'https://images.unsplash.com/photo-1487744480471-9ca1bca6fb7d?ixid=M3w0NTY3MTh8MHwxfHNlYXJjaHw4fHxzaG9wcGluZ3xlbnwwfHx8fDE3MjIzNDkxMDF8MA&ixlib=rb-4.0.3&crop=edges&fit=crop&h=1080&w=1080',
+    cta: 'Get Started',
+    background: 'https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png',
+    variant: '04'
   }
 ]
 
